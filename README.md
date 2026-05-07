@@ -1,6 +1,6 @@
 # 🤖 HFUT Open Source Surgical Robot Research Kit
 
-🔬 Open Source Surgical Robotics · Research Use Only · Full Hardware + Software Stack
+
 
 
 
@@ -11,9 +11,13 @@ HFUT Open Source Surgical Robot Research Kit
 
 ## 🦾 Hardware Design
 
+
+
 ## 💻 Software Modules
 
+
 ## 📚 Documentation Assets
+
 
 ## 📜 Licensing
 
