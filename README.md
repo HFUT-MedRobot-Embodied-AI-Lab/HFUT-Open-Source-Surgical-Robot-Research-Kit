@@ -6,7 +6,7 @@
 
 ## 📖 Introduction
 
-HFUT Open Source Surgical Robot Research Kit 
+
 
 
 ## 🦾 Hardware Design
