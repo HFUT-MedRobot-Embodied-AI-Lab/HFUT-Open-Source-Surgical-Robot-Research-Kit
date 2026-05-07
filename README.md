@@ -1,4 +1,4 @@
-# HFUT Open Source Surgical Robot Research Kit
+# 🤖 HFUT Open Source Surgical Robot Research Kit
 
 ## 📜 Licensing
 
