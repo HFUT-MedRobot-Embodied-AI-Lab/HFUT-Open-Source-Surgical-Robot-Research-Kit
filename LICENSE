@@ -1,0 +1,25 @@
+# ⚖ Licensing Overview
+
+HFUT Open Source Surgical Robot Research Kit is distributed under a mixed, research-focused licensing model.
+
+This repository is source-available for research and non-commercial use. It is not released as an OSI-approved open-source software project or an OSHWA-compliant open-source hardware project, because commercial use is restricted.
+
+## Scope
+
+- `S2RK_Hardware/`, `S2RK_Documents/`, `README.md`, and root-level hardware research assets such as `开源机械臂.rar` are licensed under `CC BY-NC-SA 4.0`.
+- `S2RK_Software/` is licensed under `PolyForm Noncommercial 1.0.0`.
+- Full license texts are included in `LICENSES/CC-BY-NC-SA-4.0.txt` and `LICENSES/PolyForm-Noncommercial-1.0.0.txt`.
+- Additional project policy and safety guidance are included in `RESEARCH_ONLY.md`.
+
+## Commercial Use Policy
+
+- Any commercial use, commercial research, resale, paid training, commercial integration, or productization requires prior written authorization from the project maintainer(s).
+- Project policy treats research performed for commercial advantage, within a commercial organization, or in support of a commercial product or service as commercial use.
+
+## Safety and Medical Disclaimer
+
+- This project is provided as-is, without warranty of any kind.
+- This repository is intended for research and educational purposes only.
+- This project is not a certified medical device and must not be used for diagnosis, treatment, or direct clinical deployment.
+- Any physical assembly, testing, or operation is entirely at the user's own risk.
+
