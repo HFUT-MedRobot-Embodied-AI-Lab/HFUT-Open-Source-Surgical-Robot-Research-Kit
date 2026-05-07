@@ -1,5 +1,20 @@
 # 🤖 HFUT Open Source Surgical Robot Research Kit
 
+🔬 Open Source Surgical Robotics · Research Use Only · Full Hardware + Software Stack
+
+🦾 RCM and Instrument Design · 💻 Kinematics and Simulation · 📚 Technical Documents
+
+## 📖 Introduction
+
+HFUT Open Source Surgical Robot Research Kit is a research-oriented surgical robotics platform designed to lower the barrier to learning, building, and experimenting with minimally invasive robotic systems.
+
+This repository provides a structured hardware-software-documentation stack for open research and teaching:
+
+- 🦾 Hardware Design: Mechanical assets for the surgical robot platform, including `RCM`, `Instrument`, `CAD`, and `URDF` related resources.
+- 💻 Software Modules: Core folders for `S2RK_Kinematics` and `S2RK_Simulation`, supporting algorithm development, modeling, and experimental verification.
+- 📚 Documentation Assets: Project documentation, manuals, and technical reports for reproducible research and onboarding.
+- 🔬 Research Focus: Suitable for surgical robotics education, laboratory validation, prototype development, and non-commercial academic exploration.
+
 ## 📜 Licensing
 
 This repository uses a mixed licensing model for research and non-commercial use:
