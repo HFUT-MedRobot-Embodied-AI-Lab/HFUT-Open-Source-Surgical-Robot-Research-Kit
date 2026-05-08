@@ -39,5 +39,5 @@ This project is provided for research, education, and other non-commercial purpo
 
 For project-related communication and collaboration, the following topics are currently supported:
 
-- Open-source progress and technical support
-- Future collaboration and customization
+- Open-source progress and technical support: boouyang@hfut.edu.cn
+- Future collaboration and customization: boouyang@hfut.edu.cn
